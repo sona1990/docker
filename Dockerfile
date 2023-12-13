@@ -1,3 +1,3 @@
-FROM ubuntu:20.04
+FROM alpine:3.18
 ENTRYPOINT ["sleep"]
 CMD ["100"]
